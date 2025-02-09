@@ -1,0 +1,24 @@
+# 環境相關
+.env
+venv/
+.venv/
+env/
+*.pyc
+__pycache__/
+.python-version
+
+# 暫存檔案
+temp_uploads/
+parsed_results/
+parsed_journals/
+*.pdf
+*.md
+
+# IDE 相關
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 其他
+*.log 
