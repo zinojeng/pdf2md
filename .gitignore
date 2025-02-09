@@ -24,4 +24,5 @@ parsed_journals/
 .DS_Store
 
 # 其他
-*.log 
+*.log
+*.ipynb 
