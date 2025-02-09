@@ -12,7 +12,10 @@ temp_uploads/
 parsed_results/
 parsed_journals/
 *.pdf
+
+# 忽略所有 .md 文件，但保留 README.md
 *.md
+!README.md
 
 # IDE 相關
 .vscode/
